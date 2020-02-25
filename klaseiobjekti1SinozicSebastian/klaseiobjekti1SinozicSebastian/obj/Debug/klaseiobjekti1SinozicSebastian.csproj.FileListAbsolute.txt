@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\klaseiobjekti1SinozicSebastian\klaseiobjekti1SinozicSebastian\bin\Debug\klaseiobjekti1SinozicSebastian.exe.config
+C:\Users\3.D\source\repos\klaseiobjekti1SinozicSebastian\klaseiobjekti1SinozicSebastian\bin\Debug\klaseiobjekti1SinozicSebastian.exe
+C:\Users\3.D\source\repos\klaseiobjekti1SinozicSebastian\klaseiobjekti1SinozicSebastian\bin\Debug\klaseiobjekti1SinozicSebastian.pdb
+C:\Users\3.D\source\repos\klaseiobjekti1SinozicSebastian\klaseiobjekti1SinozicSebastian\obj\Debug\klaseiobjekti1SinozicSebastian.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\klaseiobjekti1SinozicSebastian\klaseiobjekti1SinozicSebastian\obj\Debug\klaseiobjekti1SinozicSebastian.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\klaseiobjekti1SinozicSebastian\klaseiobjekti1SinozicSebastian\obj\Debug\klaseiobjekti1SinozicSebastian.exe
+C:\Users\3.D\source\repos\klaseiobjekti1SinozicSebastian\klaseiobjekti1SinozicSebastian\obj\Debug\klaseiobjekti1SinozicSebastian.pdb
